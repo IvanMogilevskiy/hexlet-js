@@ -1,23 +1,26 @@
 {
-    "name": "first-project",
-    "version": "0.0.1",
-    "type": "module",
-    "description": "first hexlet js project",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/IvanMogilevskiy/hexlet-js.git"
-    },
-    "author": "Ivan Mogilevskiy",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/IvanMogilevskiy/hexlet-js/issues"
-    },
-    "homepage": "https://github.com/IvanMogilevskiy/hexlet-js#readme",
-    "dependencies": {
-        "lodash": "^4.17.21"
-    }
+  "name": "first-project",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "first hexlet js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanMogilevskiy/hexlet-js.git"
+  },
+  "author": "Ivan Mogilevskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanMogilevskiy/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/IvanMogilevskiy/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.0"
+  }
 }
